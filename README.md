@@ -1,2 +1,3 @@
 # Proffy
-Project made in NLW - 2nd Edition
+
+Project made in NextLevelWeek - 2nd Edition - Trilha Discovery
